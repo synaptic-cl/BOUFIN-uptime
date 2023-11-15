@@ -1,26 +1,41 @@
-# Change these first
-owner: synaptic-cl # Your GitHub organization or username, where this repository lives
-repo: BOUFIN-uptime # The name of this repository
+owner: synaptic-cl
+repo: BOUFIN-uptime 
 
 sites:
-  - name: Boufin WEB
+  - name: Synaptic.cl
+    url: https://synaptic.cl/
+
+  - name: Boufin.com
     url: https://boufin.com/
+
   - name: Boufin Docs
     url: https://doc.boufin.com/
+
+  - name: Widget
+    url: https://widget.boufin.com/
+
+  - name: Widget DEMO
+    url: https://demo-widget.boufin.com/
+
+  - name: Widget SandBox 
+    url: https://widget-sandbox.boufin.com/
+
+  - name: Widget SandBox DEMO
+    url: https://demo-widget-sandbox.boufin.com/
+
 
 asignees:
   - tebancl
   - hvillarroel
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.boufin.com
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  logoUrl: https://status.boufin.com/logo.svg
+  favicon: https://status.boufin.com/favicon.ico
+  theme: light
+  name: ""
+  introTitle: ""
+  introMessage: ""
   navbar:
     - title: Status
       href: /
