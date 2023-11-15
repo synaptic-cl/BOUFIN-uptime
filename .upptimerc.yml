@@ -30,8 +30,8 @@ asignees:
 
 status-website:
   cname: status.boufin.com
-  logoUrl: https://status.boufin.com/logo.svg
-  favicon: https://status.boufin.com/favicon.ico
+  logoUrl: https://raw.githubusercontent.com/synaptic-cl/BOUFIN-uptime/master/assets/logo.svg
+  favicon: https://raw.githubusercontent.com/synaptic-cl/BOUFIN-uptime/master/assets/favicon.ico
   theme: light
   name: ""
   introTitle: ""
