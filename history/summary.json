@@ -22,9 +22,9 @@
     "url": "https://boufin.com/",
     "icon": "https://icons.duckduckgo.com/ip3/boufin.com.ico",
     "slug": "boufin-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 117,
     "timeMonth": 118,
     "timeYear": 132,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-05": 0
+    }
   },
   {
     "name": "Boufin Docs",
