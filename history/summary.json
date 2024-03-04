@@ -4,19 +4,19 @@
     "url": "https://synaptic.cl/",
     "icon": "https://icons.duckduckgo.com/ip3/synaptic.cl.ico",
     "slug": "synaptic-cl",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 179,
-    "timeDay": 158,
-    "timeWeek": 128,
-    "timeMonth": 128,
-    "timeYear": 179,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.92%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
+    "time": 181,
+    "timeDay": 247,
+    "timeWeek": 166,
+    "timeMonth": 139,
+    "timeYear": 181,
     "dailyMinutesDown": {
-      "2024-03-04": 0
+      "2024-03-04": 16
     }
   },
   {
