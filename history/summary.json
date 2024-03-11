@@ -4,11 +4,11 @@
     "url": "https://synaptic.cl/",
     "icon": "https://icons.duckduckgo.com/ip3/synaptic.cl.ico",
     "slug": "synaptic-cl",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 202,
     "timeDay": 787,
@@ -16,7 +16,7 @@
     "timeMonth": 221,
     "timeYear": 202,
     "dailyMinutesDown": {
-      "2024-03-11": 5,
+      "2024-03-11": 0,
       "2024-03-04": 16
     }
   },
@@ -25,11 +25,11 @@
     "url": "https://boufin.com/",
     "icon": "https://icons.duckduckgo.com/ip3/boufin.com.ico",
     "slug": "boufin-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 207,
     "timeDay": 459,
@@ -37,7 +37,7 @@
     "timeMonth": 263,
     "timeYear": 207,
     "dailyMinutesDown": {
-      "2024-03-11": 5
+      "2024-03-11": 0
     }
   },
   {
