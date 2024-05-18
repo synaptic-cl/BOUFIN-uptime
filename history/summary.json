@@ -60,9 +60,9 @@
     "url": "https://widget.boufin.com/",
     "icon": "https://icons.duckduckgo.com/ip3/widget.boufin.com.ico",
     "slug": "widget",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -71,7 +71,9 @@
     "timeWeek": 170,
     "timeMonth": 225,
     "timeYear": 331,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-18": 0
+    }
   },
   {
     "name": "Widget DEMO",
