@@ -62,18 +62,16 @@
     "slug": "widget",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 329,
     "timeDay": 121,
     "timeWeek": 154,
     "timeMonth": 219,
     "timeYear": 329,
-    "dailyMinutesDown": {
-      "2024-05-18": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Widget DEMO",
@@ -116,9 +114,9 @@
     "url": "https://demo-widget-sandbox.boufin.com/",
     "icon": "https://icons.duckduckgo.com/ip3/demo-widget-sandbox.boufin.com.ico",
     "slug": "widget-sand-box-demo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -127,6 +125,8 @@
     "timeWeek": 616,
     "timeMonth": 239,
     "timeYear": 242,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-18": 0
+    }
   }
 ]
