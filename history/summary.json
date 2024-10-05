@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 345,
-    "timeDay": 265,
-    "timeWeek": 416,
-    "timeMonth": 458,
+    "timeDay": 519,
+    "timeWeek": 447,
+    "timeMonth": 460,
     "timeYear": 345,
     "dailyMinutesDown": {
       "2024-03-04": 16
@@ -26,18 +26,16 @@
     "slug": "boufin-com",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 310,
-    "timeDay": 459,
-    "timeWeek": 402,
-    "timeMonth": 416,
+    "timeDay": 524,
+    "timeWeek": 430,
+    "timeMonth": 415,
     "timeYear": 310,
-    "dailyMinutesDown": {
-      "2024-10-04": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Boufin Docs",
@@ -51,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 133,
-    "timeDay": 247,
+    "timeDay": 108,
     "timeWeek": 134,
-    "timeMonth": 280,
+    "timeMonth": 278,
     "timeYear": 133,
     "dailyMinutesDown": {}
   },
@@ -69,9 +67,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 292,
-    "timeDay": 77,
-    "timeWeek": 129,
-    "timeMonth": 220,
+    "timeDay": 257,
+    "timeWeek": 151,
+    "timeMonth": 222,
     "timeYear": 292,
     "dailyMinutesDown": {}
   },
@@ -86,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 392,
-    "timeDay": 238,
-    "timeWeek": 473,
-    "timeMonth": 604,
-    "timeYear": 392,
+    "time": 391,
+    "timeDay": 162,
+    "timeWeek": 159,
+    "timeMonth": 603,
+    "timeYear": 391,
     "dailyMinutesDown": {}
   },
   {
@@ -105,8 +103,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 287,
-    "timeDay": 76,
-    "timeWeek": 149,
+    "timeDay": 208,
+    "timeWeek": 131,
     "timeMonth": 208,
     "timeYear": 287,
     "dailyMinutesDown": {}
@@ -123,8 +121,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 356,
-    "timeDay": 111,
-    "timeWeek": 476,
+    "timeDay": 115,
+    "timeWeek": 127,
     "timeMonth": 445,
     "timeYear": 356,
     "dailyMinutesDown": {}
