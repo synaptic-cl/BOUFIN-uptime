@@ -8,8 +8,8 @@ sites:
   - name: Boufin.com
     url: https://boufin.com/
   
-  - name: Boufin API
-    url: https://boufin.com/
+  - name: Boufin.app
+    url: https://boufin.app/
     expectedStatusCodes:
       - 200
       - 301
