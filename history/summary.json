@@ -38,10 +38,10 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "Boufin API",
-    "url": "https://boufin.com/",
-    "icon": "https://icons.duckduckgo.com/ip3/boufin.com.ico",
-    "slug": "boufin-api",
+    "name": "Boufin.app",
+    "url": "https://boufin.app/",
+    "icon": "https://icons.duckduckgo.com/ip3/boufin.app.ico",
+    "slug": "boufin-app",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
