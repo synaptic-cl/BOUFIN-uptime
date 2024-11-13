@@ -4,10 +4,10 @@
     "url": "https://synaptic.cl/",
     "icon": "https://icons.duckduckgo.com/ip3/synaptic.cl.ico",
     "slug": "synaptic-cl",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 357,
@@ -16,6 +16,7 @@
     "timeMonth": 478,
     "timeYear": 357,
     "dailyMinutesDown": {
+      "2024-11-13": 2,
       "2024-03-04": 16
     }
   },
@@ -24,10 +25,10 @@
     "url": "https://boufin.com/",
     "icon": "https://icons.duckduckgo.com/ip3/boufin.com.ico",
     "slug": "boufin-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 319,
@@ -35,16 +36,18 @@
     "timeWeek": 277,
     "timeMonth": 391,
     "timeYear": 319,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-13": 1
+    }
   },
   {
     "name": "Boufin.app",
     "url": "https://boufin.app/",
     "icon": "https://icons.duckduckgo.com/ip3/boufin.app.ico",
     "slug": "boufin-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -53,7 +56,9 @@
     "timeWeek": 186,
     "timeMonth": 204,
     "timeYear": 204,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-13": 0
+    }
   },
   {
     "name": "Boufin Finance",
