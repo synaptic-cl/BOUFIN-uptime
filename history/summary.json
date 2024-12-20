@@ -43,19 +43,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/boufin.app.ico",
     "slug": "boufin-app",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 192,
     "timeDay": 148,
     "timeWeek": 163,
     "timeMonth": 188,
     "timeYear": 192,
-    "dailyMinutesDown": {
-      "2024-12-20": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Boufin Finance",
@@ -181,6 +179,24 @@
     "timeWeek": 1167,
     "timeMonth": 769,
     "timeYear": 468,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Boufin Indicadores Económicos",
+    "url": "https://indicators.boufin.app/api/v1/indicators.json",
+    "icon": "https://icons.duckduckgo.com/ip3/indicators.boufin.app.ico",
+    "slug": "boufin-indicadores-economicos",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
     "dailyMinutesDown": {}
   }
 ]
