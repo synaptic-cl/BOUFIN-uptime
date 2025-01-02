@@ -44,7 +44,7 @@ sites:
     url: https://demo-widget-sandbox.boufin.com/
   
   - name: Boufin Indicadores Económicos
-    url: https://indicators.boufin.app/api/v1/indicators.json
+    url: https://finance.boufin.app/api/v1/indicators.json
 
 
 asignees:
