@@ -78,18 +78,20 @@
     "url": "https://api-staging.boufin.app",
     "icon": "https://icons.duckduckgo.com/ip3/api-staging.boufin.app.ico",
     "slug": "boufin-finance-staging",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 881,
-    "timeDay": 158,
+    "time": 873,
+    "timeDay": 163,
     "timeWeek": 166,
-    "timeMonth": 276,
-    "timeYear": 881,
-    "dailyMinutesDown": {}
+    "timeMonth": 273,
+    "timeYear": 873,
+    "dailyMinutesDown": {
+      "2025-01-21": 0
+    }
   },
   {
     "name": "Boufin Docs",
