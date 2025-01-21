@@ -43,18 +43,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/boufin.app.ico",
     "slug": "boufin-app",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.88%",
+    "uptimeDay": "89.51%",
+    "uptimeWeek": "98.50%",
+    "uptimeMonth": "99.66%",
+    "uptimeYear": "99.88%",
     "time": 187,
     "timeDay": 187,
     "timeWeek": 152,
     "timeMonth": 176,
     "timeYear": 187,
     "dailyMinutesDown": {
-      "2025-01-21": 0
+      "2025-01-21": 151
     }
   },
   {
@@ -63,18 +63,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.boufin.app.ico",
     "slug": "boufin-finance",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.10%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.87%",
+    "uptimeDay": "88.63%",
+    "uptimeWeek": "98.38%",
+    "uptimeMonth": "99.63%",
+    "uptimeYear": "99.87%",
     "time": 179,
     "timeDay": 173,
     "timeWeek": 169,
     "timeMonth": 175,
     "timeYear": 179,
     "dailyMinutesDown": {
-      "2025-01-21": 13
+      "2025-01-21": 164
     }
   },
   {
@@ -82,19 +82,19 @@
     "url": "https://api-staging.boufin.app",
     "icon": "https://icons.duckduckgo.com/ip3/api-staging.boufin.app.ico",
     "slug": "boufin-finance-staging",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "98.43%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.98%",
-    "time": 873,
-    "timeDay": 163,
-    "timeWeek": 166,
-    "timeMonth": 273,
-    "timeYear": 873,
+    "status": "up",
+    "uptime": "99.86%",
+    "uptimeDay": "87.96%",
+    "uptimeWeek": "98.28%",
+    "uptimeMonth": "99.60%",
+    "uptimeYear": "99.86%",
+    "time": 868,
+    "timeDay": 218,
+    "timeWeek": 184,
+    "timeMonth": 275,
+    "timeYear": 868,
     "dailyMinutesDown": {
-      "2025-01-21": 23
+      "2025-01-21": 173
     }
   },
   {
