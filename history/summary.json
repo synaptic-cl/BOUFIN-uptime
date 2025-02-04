@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 373,
-    "timeDay": 310,
-    "timeWeek": 513,
-    "timeMonth": 465,
-    "timeYear": 410,
+    "timeDay": 651,
+    "timeWeek": 566,
+    "timeMonth": 480,
+    "timeYear": 412,
     "dailyMinutesDown": {
       "2024-03-04": 16
     }
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 343,
-    "timeDay": 377,
-    "timeWeek": 337,
-    "timeMonth": 380,
-    "timeYear": 390,
+    "timeDay": 435,
+    "timeWeek": 374,
+    "timeMonth": 388,
+    "timeYear": 391,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.54%",
     "uptimeYear": "99.86%",
-    "time": 187,
-    "timeDay": 152,
-    "timeWeek": 162,
-    "timeMonth": 173,
-    "timeYear": 187,
+    "time": 188,
+    "timeDay": 241,
+    "timeWeek": 185,
+    "timeMonth": 177,
+    "timeYear": 188,
     "dailyMinutesDown": {
       "2025-01-21": 201
     }
@@ -63,15 +63,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.boufin.app.ico",
     "slug": "boufin-finance",
     "status": "up",
-    "uptime": "99.86%",
+    "uptime": "99.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.55%",
-    "uptimeYear": "99.86%",
+    "uptimeYear": "99.87%",
     "time": 175,
-    "timeDay": 135,
-    "timeWeek": 152,
-    "timeMonth": 163,
+    "timeDay": 187,
+    "timeWeek": 161,
+    "timeMonth": 164,
     "timeYear": 175,
     "dailyMinutesDown": {
       "2025-01-21": 198
@@ -88,11 +88,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.60%",
     "uptimeYear": "99.88%",
-    "time": 776,
-    "timeDay": 141,
-    "timeWeek": 143,
-    "timeMonth": 167,
-    "timeYear": 776,
+    "time": 771,
+    "timeDay": 226,
+    "timeWeek": 157,
+    "timeMonth": 169,
+    "timeYear": 771,
     "dailyMinutesDown": {
       "2025-01-21": 173
     }
@@ -109,10 +109,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 131,
-    "timeDay": 89,
-    "timeWeek": 112,
-    "timeMonth": 125,
-    "timeYear": 133,
+    "timeDay": 198,
+    "timeWeek": 129,
+    "timeMonth": 128,
+    "timeYear": 134,
     "dailyMinutesDown": {}
   },
   {
@@ -127,10 +127,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 251,
-    "timeDay": 59,
-    "timeWeek": 161,
+    "timeDay": 108,
+    "timeWeek": 168,
     "timeMonth": 161,
-    "timeYear": 211,
+    "timeYear": 210,
     "dailyMinutesDown": {}
   },
   {
@@ -144,11 +144,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 454,
-    "timeDay": 183,
+    "time": 453,
+    "timeDay": 119,
     "timeWeek": 150,
-    "timeMonth": 144,
-    "timeYear": 508,
+    "timeMonth": 143,
+    "timeYear": 507,
     "dailyMinutesDown": {}
   },
   {
@@ -163,10 +163,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 242,
-    "timeDay": 138,
-    "timeWeek": 142,
-    "timeMonth": 132,
-    "timeYear": 204,
+    "timeDay": 239,
+    "timeWeek": 169,
+    "timeMonth": 139,
+    "timeYear": 202,
     "dailyMinutesDown": {}
   },
   {
@@ -180,9 +180,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 416,
-    "timeDay": 216,
-    "timeWeek": 146,
+    "time": 415,
+    "timeDay": 130,
+    "timeWeek": 141,
     "timeMonth": 145,
     "timeYear": 452,
     "dailyMinutesDown": {}
@@ -199,9 +199,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 154,
-    "timeDay": 119,
+    "timeDay": 144,
     "timeWeek": 155,
-    "timeMonth": 152,
+    "timeMonth": 151,
     "timeYear": 154,
     "dailyMinutesDown": {}
   }
