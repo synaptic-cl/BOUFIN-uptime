@@ -172,19 +172,19 @@
     "url": "https://demo-widget-sandbox.boufin.com/",
     "icon": "https://icons.duckduckgo.com/ip3/demo-widget-sandbox.boufin.com.ico",
     "slug": "widget-sand-box-demo",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 383,
-    "timeDay": 135,
-    "timeWeek": 151,
+    "timeDay": 141,
+    "timeWeek": 150,
     "timeMonth": 137,
-    "timeYear": 453,
+    "timeYear": 452,
     "dailyMinutesDown": {
-      "2025-04-06": 0
+      "2025-04-06": 6
     }
   },
   {
