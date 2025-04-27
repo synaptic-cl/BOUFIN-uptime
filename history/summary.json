@@ -136,19 +136,19 @@
     "url": "https://demo-widget.boufin.com/",
     "icon": "https://icons.duckduckgo.com/ip3/demo-widget.boufin.com.ico",
     "slug": "widget-demo",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.24%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 469,
-    "timeDay": 4302,
-    "timeWeek": 2231,
-    "timeMonth": 843,
-    "timeYear": 563,
+    "time": 485,
+    "timeDay": 4897,
+    "timeWeek": 2711,
+    "timeMonth": 1049,
+    "timeYear": 584,
     "dailyMinutesDown": {
-      "2025-04-27": 1
+      "2025-04-27": 11
     }
   },
   {
@@ -176,9 +176,9 @@
     "slug": "widget-sand-box-demo",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.23%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 404,
     "timeDay": 5446,
@@ -186,7 +186,7 @@
     "timeMonth": 464,
     "timeYear": 471,
     "dailyMinutesDown": {
-      "2025-04-27": 0
+      "2025-04-27": 11
     }
   },
   {
