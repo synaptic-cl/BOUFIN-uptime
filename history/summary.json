@@ -82,9 +82,9 @@
     "slug": "boufin-finance-staging",
     "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.46%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.95%",
     "time": 455,
     "timeDay": 195,
@@ -92,7 +92,7 @@
     "timeMonth": 162,
     "timeYear": 455,
     "dailyMinutesDown": {
-      "2025-06-12": 0,
+      "2025-06-12": 8,
       "2025-01-21": 173
     }
   },
@@ -193,19 +193,19 @@
     "url": "https://finance.boufin.app/api/v1/indicators.json",
     "icon": "https://icons.duckduckgo.com/ip3/finance.boufin.app.ico",
     "slug": "boufin-indicadores-economicos",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "96.97%",
-    "uptimeWeek": "99.57%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "96.46%",
+    "uptimeWeek": "99.49%",
+    "uptimeMonth": "99.88%",
     "uptimeYear": "99.98%",
     "time": 207,
-    "timeDay": 1790,
-    "timeWeek": 811,
-    "timeMonth": 359,
+    "timeDay": 1465,
+    "timeWeek": 752,
+    "timeMonth": 353,
     "timeYear": 207,
     "dailyMinutesDown": {
-      "2025-06-12": 43
+      "2025-06-12": 51
     }
   }
 ]
