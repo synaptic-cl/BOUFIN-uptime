@@ -192,17 +192,19 @@
     "url": "https://finance.boufin.app/api/v1/indicators.json",
     "icon": "https://icons.duckduckgo.com/ip3/finance.boufin.app.ico",
     "slug": "boufin-indicadores-economicos",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 169,
-    "timeDay": 197,
-    "timeWeek": 164,
-    "timeMonth": 169,
-    "timeYear": 169,
-    "dailyMinutesDown": {}
+    "time": 202,
+    "timeDay": 2925,
+    "timeWeek": 850,
+    "timeMonth": 340,
+    "timeYear": 202,
+    "dailyMinutesDown": {
+      "2025-06-12": 0
+    }
   }
 ]
