@@ -4,18 +4,20 @@
     "url": "https://synaptic.cl/",
     "icon": "https://icons.duckduckgo.com/ip3/synaptic.cl.ico",
     "slug": "synaptic-cl",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 439,
+    "time": 440,
     "timeDay": 463,
     "timeWeek": 473,
     "timeMonth": 494,
     "timeYear": 457,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-19": 0
+    }
   },
   {
     "name": "Boufin.com",
