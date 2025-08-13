@@ -155,19 +155,19 @@
     "url": "https://widget-sandbox.boufin.com/",
     "icon": "https://icons.duckduckgo.com/ip3/widget-sandbox.boufin.com.ico",
     "slug": "widget-sand-box",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 182,
-    "timeDay": 386,
-    "timeWeek": 191,
-    "timeMonth": 150,
+    "time": 183,
+    "timeDay": 294,
+    "timeWeek": 192,
+    "timeMonth": 152,
     "timeYear": 166,
     "dailyMinutesDown": {
-      "2025-08-13": 0
+      "2025-08-13": 5
     }
   },
   {
