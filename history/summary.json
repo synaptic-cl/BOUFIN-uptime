@@ -119,19 +119,19 @@
     "url": "https://widget.boufin.com/",
     "icon": "https://icons.duckduckgo.com/ip3/widget.boufin.com.ico",
     "slug": "widget",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 182,
-    "timeDay": 193,
-    "timeWeek": 121,
-    "timeMonth": 158,
-    "timeYear": 162,
+    "timeDay": 141,
+    "timeWeek": 117,
+    "timeMonth": 156,
+    "timeYear": 161,
     "dailyMinutesDown": {
-      "2025-08-16": 0
+      "2025-08-16": 9
     }
   },
   {
