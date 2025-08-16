@@ -60,9 +60,9 @@
     "url": "https://api.boufin.app",
     "icon": "https://icons.duckduckgo.com/ip3/api.boufin.app.ico",
     "slug": "boufin-finance",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
@@ -72,6 +72,7 @@
     "timeMonth": 160,
     "timeYear": 170,
     "dailyMinutesDown": {
+      "2025-08-16": 0,
       "2025-01-21": 198
     }
   },
@@ -139,18 +140,16 @@
     "slug": "widget-demo",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 486,
     "timeDay": 149,
     "timeWeek": 609,
     "timeMonth": 281,
     "timeYear": 495,
-    "dailyMinutesDown": {
-      "2025-08-16": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Widget SandBox",
@@ -177,9 +176,9 @@
     "slug": "widget-sand-box-demo",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.68%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 392,
     "timeDay": 250,
@@ -187,7 +186,6 @@
     "timeMonth": 156,
     "timeYear": 382,
     "dailyMinutesDown": {
-      "2025-08-16": 5,
       "2025-04-27": 18
     }
   },
