@@ -40,18 +40,19 @@
     "url": "https://boufin.app/",
     "icon": "https://icons.duckduckgo.com/ip3/boufin.app.ico",
     "slug": "boufin-app",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 209,
-    "timeDay": 224,
+    "timeDay": 247,
     "timeWeek": 223,
     "timeMonth": 263,
     "timeYear": 209,
     "dailyMinutesDown": {
+      "2025-09-09": 0,
       "2025-01-21": 201
     }
   },
