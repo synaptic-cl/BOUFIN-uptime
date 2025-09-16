@@ -40,18 +40,19 @@
     "url": "https://boufin.app/",
     "icon": "https://icons.duckduckgo.com/ip3/boufin.app.ico",
     "slug": "boufin-app",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 209,
     "timeDay": 184,
-    "timeWeek": 228,
+    "timeWeek": 235,
     "timeMonth": 258,
     "timeYear": 209,
     "dailyMinutesDown": {
+      "2025-09-16": 0,
       "2025-01-21": 201
     }
   },
@@ -69,7 +70,7 @@
     "time": 169,
     "timeDay": 110,
     "timeWeek": 168,
-    "timeMonth": 164,
+    "timeMonth": 166,
     "timeYear": 169,
     "dailyMinutesDown": {
       "2025-01-21": 198
@@ -128,7 +129,7 @@
     "time": 180,
     "timeDay": 413,
     "timeWeek": 200,
-    "timeMonth": 174,
+    "timeMonth": 177,
     "timeYear": 155,
     "dailyMinutesDown": {}
   },
@@ -146,7 +147,7 @@
     "time": 482,
     "timeDay": 136,
     "timeWeek": 198,
-    "timeMonth": 184,
+    "timeMonth": 187,
     "timeYear": 442,
     "dailyMinutesDown": {}
   },
@@ -182,7 +183,7 @@
     "time": 388,
     "timeDay": 79,
     "timeWeek": 191,
-    "timeMonth": 179,
+    "timeMonth": 178,
     "timeYear": 347,
     "dailyMinutesDown": {
       "2025-04-27": 18
