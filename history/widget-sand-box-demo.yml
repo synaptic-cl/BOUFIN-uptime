@@ -1,7 +1,7 @@
 url: https://demo-widget-sandbox.boufin.com/
-status: down
-code: 500
-responseTime: 69
-lastUpdated: 2025-11-18T11:54:47.934Z
+status: up
+code: 200
+responseTime: 149
+lastUpdated: 2025-11-18T12:14:42.369Z
 startTime: 2023-11-15T14:46:00.827Z
 generator: Upptime <https://github.com/upptime/upptime>
