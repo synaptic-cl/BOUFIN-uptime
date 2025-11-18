@@ -1,7 +1,7 @@
 url: https://finance.boufin.app/api/v1/indicators.json
-status: up
-code: 200
-responseTime: 170
-lastUpdated: 2025-11-17T23:04:49.317Z
+status: down
+code: 500
+responseTime: 160
+lastUpdated: 2025-11-18T11:37:36.829Z
 startTime: 2024-12-20T19:03:53.471Z
 generator: Upptime <https://github.com/upptime/upptime>
