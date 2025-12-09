@@ -7,26 +7,6 @@ sites:
 
   - name: Boufin.com
     url: https://boufin.com/
-  
-  - name: Boufin.app
-    url: https://boufin.app/
-    expectedStatusCodes:
-      - 200
-      - 301
-  
-  - name: Boufin Finance
-    url: https://api.boufin.app
-    expectedStatusCodes:
-      - 200
-      - 404
-  
-  - name: Boufin Finance Staging
-    url: https://api-staging.boufin.app
-    maxResponseTime: 20000
-    expectedStatusCodes:
-      - 200
-      - 404
-      - 504
 
   - name: Boufin Docs
     url: https://doc.boufin.com/
