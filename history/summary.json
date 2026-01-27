@@ -104,10 +104,10 @@
     "url": "https://widget-sandbox.boufin.com/",
     "icon": "https://icons.duckduckgo.com/ip3/widget-sandbox.boufin.com.ico",
     "slug": "widget-sand-box",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 153,
@@ -116,6 +116,7 @@
     "timeMonth": 174,
     "timeYear": 161,
     "dailyMinutesDown": {
+      "2026-01-27": 1,
       "2025-11-18": 56
     }
   },
@@ -124,18 +125,19 @@
     "url": "https://demo-widget-sandbox.boufin.com/",
     "icon": "https://icons.duckduckgo.com/ip3/demo-widget-sandbox.boufin.com.ico",
     "slug": "widget-sand-box-demo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 308,
+    "time": 304,
     "timeDay": 224,
     "timeWeek": 211,
     "timeMonth": 201,
     "timeYear": 201,
     "dailyMinutesDown": {
+      "2026-01-27": 0,
       "2025-11-18": 56,
       "2025-04-27": 18
     }
