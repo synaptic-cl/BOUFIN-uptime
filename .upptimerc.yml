@@ -10,18 +10,6 @@ sites:
 
   - name: Boufin Docs
     url: https://doc.boufin.com/
-
-  - name: Widget
-    url: https://widget.boufin.com/
-
-  - name: Widget DEMO
-    url: https://demo-widget.boufin.com/
-
-  - name: Widget SandBox 
-    url: https://widget-sandbox.boufin.com/
-
-  - name: Widget SandBox DEMO
-    url: https://demo-widget-sandbox.boufin.com/
   
   - name: Boufin Indicadores Económicos
     url: https://finance.boufin.app/api/v1/indicators.json
