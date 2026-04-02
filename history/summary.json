@@ -63,9 +63,9 @@
     "url": "https://widget.boufin.com/",
     "icon": "https://icons.duckduckgo.com/ip3/widget.boufin.com.ico",
     "slug": "widget",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -75,6 +75,7 @@
     "timeMonth": 469,
     "timeYear": 282,
     "dailyMinutesDown": {
+      "2026-04-02": 0,
       "2025-11-18": 40,
       "2025-10-22": 19
     }
@@ -84,18 +85,19 @@
     "url": "https://demo-widget.boufin.com/",
     "icon": "https://icons.duckduckgo.com/ip3/demo-widget.boufin.com.ico",
     "slug": "widget-demo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 294,
+    "time": 289,
     "timeDay": 172,
     "timeWeek": 191,
     "timeMonth": 218,
     "timeYear": 284,
     "dailyMinutesDown": {
+      "2026-04-02": 0,
       "2025-11-18": 40
     }
   },
@@ -104,9 +106,9 @@
     "url": "https://widget-sandbox.boufin.com/",
     "icon": "https://icons.duckduckgo.com/ip3/widget-sandbox.boufin.com.ico",
     "slug": "widget-sand-box",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -116,6 +118,7 @@
     "timeMonth": 183,
     "timeYear": 169,
     "dailyMinutesDown": {
+      "2026-04-02": 0,
       "2026-02-24": 22,
       "2025-11-18": 56
     }
@@ -125,18 +128,19 @@
     "url": "https://demo-widget-sandbox.boufin.com/",
     "icon": "https://icons.duckduckgo.com/ip3/demo-widget-sandbox.boufin.com.ico",
     "slug": "widget-sand-box-demo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 249,
+    "time": 245,
     "timeDay": 269,
     "timeWeek": 214,
     "timeMonth": 213,
     "timeYear": 233,
     "dailyMinutesDown": {
+      "2026-04-02": 0,
       "2025-11-18": 56,
       "2025-04-27": 18
     }
